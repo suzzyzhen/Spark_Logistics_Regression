@@ -8,7 +8,7 @@ In this part, we are going to use Logistic Regression to to pinpoint the most re
 
 
 INSTRUCTIONS: 
-NOTE: these files were orignally ran on a Google Cloud Compute cluster(3 nodes) with Hadoop and Spark installed. 
+NOTE: these files were orignally run on a Google Cloud Compute cluster(3 nodes) with Hadoop and Spark installed. 
 
 - create a fold within your Spark environment 
 
